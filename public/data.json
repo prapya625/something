@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Web Design",
+        "id": "0",
+        "price": "200",
+        "detail": "Web design encompasses many different skills and disciplines in the production and maintenance of websites.",
+        "image": "https://img.freepik.com/free-vector/digital-marketing-team-constructing-landing-home-page-tiny-people-painting-units-webpage-illustration-website-designers-content-managers-internet-promotion-concept-landing-page_74855-17962.jpg?t=st=1648241567~exp=1648242167~hmac=fd9523dc9a16160d1b5c551f1509fab54a063a5fa9cd5807253e134beebac12e&w=740"
+    },
+    {
+        "name": "Programming",
+        "id": "1",
+        "price": "150",
+        "detail": "Programming is the process of creating a set of instructions that tell a computer how to perform a task . ",
+        "image": "https://img.freepik.com/free-photo/various-computer-equipment-with-programming-code-screens-table-dark-room-cyber-security-concept-copy-space_236854-23136.jpg?w=740"
+    },
+    {
+        "name": "Web Dev",
+        "id": "2",
+        "price": "350",
+        "detail": "Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network).",
+        "image": "https://img.freepik.com/free-psd/person-writing-business-plan-whiteboard_53876-11968.jpg?t=st=1648241725~exp=1648242325~hmac=4a3cc16efe152cfcff90d6da9e981341f645a91ba9bba5fb4459628c2450054a&w=740"
+    },
+    {
+        "name": "Database Design",
+        "id": "3",
+        "price": "450",
+        "detail": "In computing, a database is an organized collection of data stored and accessed electronically",
+        "image": "https://img.freepik.com/free-vector/set-server-room-element-isometric-big-data-processing-data-center-database-concept_39422-909.jpg?t=st=1648241797~exp=1648242397~hmac=465ce36b6035209a4af5ab73a3f98b081ff5b69591448bcdb1c16972abac1551&w=826"
+    },
+    {
+        "name": "System Design",
+        "id": "4",
+        "price": "500",
+        "detail": " Systems design is the process of defining elements of a system like modules, architecture.",
+        "image": "https://img.freepik.com/free-vector/cyber-security-concept_53876-93472.jpg?t=st=1648241868~exp=1648242468~hmac=99096b54dbfcb86c0b5d29cb8979b991aa3a0928779874fcfe22551bb4646c15&w=740"
+    },
+    {
+        "name": "Android Course",
+        "price": "400",
+        "id": "5",
+        "detail": "Android is open to everyone: developers, designers and device makers. That means more people can experiment, imagine and create things the world has never seen.",
+        "image": "https://img.freepik.com/free-psd/smartphone-screen-mockup-psd-promotional-ad_53876-123315.jpg?t=st=1648241929~exp=1648242529~hmac=b9949765fec0ff6de2b2c6d3e40b38579e5c893f4ed85f78d67c7800da7585f6&w=740"
+    },
+    {
+        "name": "Gui Course",
+        "price": "500",
+        "id": "6",
+        "detail": "A graphics-based operating system interface that uses icons, menus and a mouse (to click on the icon or pull down the menus) to manage interaction with the system .",
+        "image": "https://img.freepik.com/free-psd/realistic-computer-design_1310-686.jpg?t=st=1648241967~exp=1648242567~hmac=5d2f1f07caafe69f1d7ed0e312203d257a241c5f5ac3eef63c25165c40226a43&w=740"
+    },
+    {
+        "name": "Back End",
+        "id": "7",
+        "detail": "Back end development focuses on the side of the website users can't see . It's what makes a site interactive. ",
+        "image": "https://img.freepik.com/free-vector/programmer-concept-illustration_114360-2417.jpg?t=st=1648242052~exp=1648242652~hmac=d0884da5015213b47b1ccc7865bf979725c6670cbb9954e4efe3f5c2567075c8&w=740"
+    },
+    {
+        "name": "Graphic Design",
+        "id": "8",
+        "detail": "Graphic Design is one of the most creative work in the world.",
+        "image": "https://img.freepik.com/free-vector/graphic-design-colorful-geometrical-lettering_52683-34588.jpg?t=st=1648307550~exp=1648308150~hmac=3d14320a3f51744ebf93ae4f84f997710ace156a71e8a5eef4956dfb9dd0c751&w=740"
+    }
+]

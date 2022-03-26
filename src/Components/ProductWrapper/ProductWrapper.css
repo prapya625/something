@@ -1,0 +1,25 @@
+.product-wrapper {
+    display: grid;
+    overflow: hidden;
+    margin-top: 65px;
+    grid-template-columns: auto auto auto;
+    grid-gap: 24px;
+}
+
+.product_wrapper_with_cart {
+    display: grid;
+    grid-template-columns: 66% 30%;
+    grid-gap: 29px;
+}
+
+@media (max-width: 768px) {
+    .product_wrapper_with_cart {
+        display: block;
+    }.product {
+        margin-top: 30px;
+    }.product-wrapper {
+        display: block;
+        margin-top: .0;
+        padding-top: 20px;
+    }
+}

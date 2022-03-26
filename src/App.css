@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;1,100;1,200&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 1229px;
+  margin: auto;
+  max-width: 95%;
+}
+
+.mini-container {
+  padding: 0 24px;
+  margin: auto;
+}
+
+.home-dark nav {
+  background: #100f0f;
+}
+
+.home-dark .navbar-left {
+color: white;
+}
+
+.home-dark .Links a {
+color: #b7b5b5;
+}
+
+.home-dark button.night-btn {
+color: white;
+}
+.home-dark .main-product-wrapper {
+  background-color: #141313;
+}
+
+.home-dark p.product_name {
+  color: white;
+}
+.home-dark p.product_desc {
+  color: #d4d3d3;
+}
+
+.home-dark p.cart_item_name {
+  color: white;
+}
+.home-dark button.cart_item_button {
+  color: white;
+}
+
+.home-dark button.cart_btn:first-child {
+  color: white;
+}
+
+.home-dark .error_msg {
+  color: white;
+}
+
+p.error_msg {
+  color: gray;
+}
+
+p.error_msg#rand {
+  padding-top: 10px;
+}
+
+.home-dark .blogWrapper {
+    background: #141313;
+} 
+
+.home-dark p.blog_heading {
+  color: white;
+  margin-bottom: 26px;
+}
+
+.home-dark p.blog_question {
+  color: white;
+}
+.home-dark p.blog_ans {
+  color: #d1d1d1;
+}
+
+.home-dark button.learn_more {
+  color: white;
+  font-weight: bold;
+  border-color: #2196f3;
+}

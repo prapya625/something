@@ -1,0 +1,30 @@
+p.blog_heading {
+    font-weight: bold;
+    font-size: 29px;
+    text-align: center;
+}
+
+.BlogWrapper {
+    padding-top: 64px;
+}
+
+.blogRow {
+    display: grid;
+    grid-template-columns: 45% 70%;
+}
+.all_blogs_-- {
+    padding-top: 116px;
+}
+.all_blogs_-- {
+    padding-top: 59px;
+}
+p.blog_question {
+    font-weight: bold;
+    font-size: 29px;
+    padding-bottom: 4px;
+}
+
+.all_blogs_-- {
+    margin-top: -28px;
+}
+

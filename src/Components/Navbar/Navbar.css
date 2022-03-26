@@ -1,0 +1,45 @@
+.navbar-left {
+    font-weight: bold;
+    font-size: 21px;
+    color: #434343;
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbar-left svg {
+    width: 43px;
+    padding-right: 9px;
+  }
+  
+  .nav {
+    display: flex;
+    align-items: center;
+  }
+  
+  nav {
+    background: #e9e9e982;
+    padding: 14px 0;
+  }
+  
+  .Links {
+    padding-left: 23px;
+  }
+  
+  .Links a {
+    color: #1e1d1d;
+    text-decoration: none;
+  }
+  
+  .navbar-menu {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  
+  button.night-btn {
+    width: 22px;
+    border: none;
+    background: none;
+    cursor: pointer;
+  }
+
